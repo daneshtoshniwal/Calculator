@@ -12,7 +12,7 @@ public class Main {
         int op, flag = 0;
         double num1;
         logger.info("Start of Execution");
-
+        // Start of the actual calculator (dev part)
         System.out.println("------------Scientific Calculator--------------");
         do {
             System.out.println("Choices of Operations:");
