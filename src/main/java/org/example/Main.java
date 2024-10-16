@@ -68,6 +68,7 @@ public class Main {
         return res;
     }
 
+
     public static int Factorial(int n1) {
         logger.info("START OP: Factorial");
         int res = 1;
