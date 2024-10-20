@@ -80,6 +80,7 @@ public class Main {
         return res;
     }
 
+
     public static double NaturalLog(double n1) {
         logger.info("START OP: Natural Logarithm");
         if (n1 <= 0) {
